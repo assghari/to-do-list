@@ -20,7 +20,3 @@ function add() {
 				  document.getElementById(item).remove(); ///Remove tag <p>
 				  document.getElementById(item).remove(); ///Remove tag <hr>
             }
-
-
-
-
